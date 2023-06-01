@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": " nodemon httpreader.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
